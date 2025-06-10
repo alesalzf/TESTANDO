@@ -4,7 +4,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-    res.send ('Node aaaaaaaa Server')
+    res.send ('Deu certoate aqui    espero que continue')
 })
 
 app.get('/lista', (req, res) => {
